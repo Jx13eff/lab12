@@ -1,4 +1,4 @@
-package trees;
+package lab12.src.trees;
 
 import java.util.*;
 import java.io.*;
